@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\baihu\WTest\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="cb6883d96005bc85b3e868f204507ea5b4fa9bbf">
+        <dex dex="E:\baihu\WTest\build\intermediates\pre-dexed\debug\android-support-v4_4fcb2a6d52c4a4a290c24011202d16a228619401.jar" />
+    </item>
+
+</items>

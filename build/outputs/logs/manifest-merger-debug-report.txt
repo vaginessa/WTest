@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\baihu\WTest\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:3:5-26
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+uses-sdk
+ADDED from E:\baihu\WTest\AndroidManifest.xml:5:5-73
+	android:targetSdkVersion
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:5:41-70
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:5:15-40
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+		INJECTED from E:\baihu\WTest\AndroidManifest.xml
+application
+ADDED from E:\baihu\WTest\AndroidManifest.xml:6:5-21:19
+	android:label
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:7:9-35
+activity#com.test.wl.MainAcvtivity
+ADDED from E:\baihu\WTest\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:12:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\baihu\WTest\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\baihu\WTest\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\baihu\WTest\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\baihu\WTest\AndroidManifest.xml:17:27-74
